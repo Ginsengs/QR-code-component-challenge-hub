@@ -1,0 +1,41 @@
+body {
+  background-color: #d6e2f0;
+  font-family: "Outfit";
+}
+
+h1 {
+  color: 	#1f3251;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+h2 {
+  font-weight: 400;
+  color: #7b879d;
+  font-size: 15px;
+}
+
+
+img {
+  height: 250px;
+  width: 250px;
+  border-radius: 5px;
+}
+
+.box {
+  text-align: center;
+  background-color: white;
+  width: 250px;
+  margin: 120px auto 100px auto;
+
+  padding: 10px 10px 30px 10px;
+  border-radius: 5%;
+}
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: #3e52a3;
+  padding-top: 100px;
+}
